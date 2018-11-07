@@ -1,0 +1,149 @@
+
+
+.left {
+	float:left;
+}
+.right {
+	float:right;
+}
+.wrapper {
+	width:100%;
+	overflow:hidden;
+}
+body {
+	background:#16316b;
+	border:0;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#b8bfcb;
+	line-height:18px;
+}
+
+
+
+.main {
+	margin:0 auto;
+	width:952px;
+	position:relative;
+}
+.body1 {
+	width:262px;
+	height:397px;
+	position:absolute;
+	top:0;
+	right:6px;
+	z-index:2;
+}
+
+a {
+	color:#fff;
+	text-decoration:underline;
+	outline:none;
+}
+
+h1 {
+	padding:36px 0 0 22px;
+}
+h2 {
+	font:28px "Times New Roman", Times, serif;
+	color:#fff;
+	line-height:36px;
+	padding:3px 0 14px 0;
+	letter-spacing:-1px;
+}
+
+header {
+	width:100%;
+	overflow:hidden;
+	height:214px;
+	padding:0 6px;
+}
+  header h1 {
+	margin:56px 0 0 57px;
+	padding:0;
+}
+
+ nav {
+	width:100%;
+	overflow:hidden;
+	position:relative;
+	z-index:3;
+}
+#menu {
+	float:left;
+	padding-left:2px;
+
+}
+#menu li {
+	float:left;
+	padding-right:2px;
+}
+#menu li a {
+	display:block;
+	width:138px;
+	font:20px "Times New Roman", Times, serif;
+	line-height:78px;
+	text-decoration:none;
+	text-align:center;
+
+}
+
+.box_shadow {
+	margin:6px 6px 30px 6px;
+}
+.box {
+	background:#f5f6fc;
+	border-radius:20px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	box-shadow:0 0 6px rgba(0, 0, 0, .7);
+	-moz-box-shadow:0 0 6px rgba(0, 0, 0, .7);
+	-webkit-box-shadow:0 0 6px rgba(0, 0, 0, .7);
+	position:relative;
+	padding:28px 43px 23px 47px;
+	color:#000;
+}
+.box h2 {
+	color:#9a0822;
+}
+.box .font1 {
+	color:#000;
+}
+.box a {
+	color:#9a0822;
+}
+ 
+.pad_right {
+	padding-right:230px;
+}
+.marg_right1 {
+	margin-right:20px;
+}
+.pad_bot1 {
+	padding-bottom:18px;
+}
+.pad_left1 {
+	padding-left:60px;
+}
+.pad_left2 {
+	padding-left:53px;
+}
+.pad_left3 {
+	padding-left:70px;
+}
+.font1 {
+	color:#fff;
+	font-weight:bold;
+	padding-bottom:6px;
+}
+
+.list{
+	padding-left:20px;
+	background:url(https://wallpapercave.com/wp/jqXvgH2.jpg) 0 0px no-repeat;
+}
+
+footer {
+	background:url(../images/bg_footer_repeat.gif) top repeat-x;
+}
+
+
+
