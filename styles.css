@@ -144,6 +144,8 @@ header {
 footer {
 	background:url(../images/bg_footer_repeat.gif) top repeat-x;
 }
-
+ 
+ .slogan{ font-family: 'Cinzel', serif;
+ }
 
 
